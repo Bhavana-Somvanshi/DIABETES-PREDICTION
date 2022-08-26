@@ -1,0 +1,15 @@
+Dataset:|
+
+I will be using Pima Indian Diabetes Dataset for this project. The dataset consists of several medical
+predictor variables and one target variables. Predictor variables includes the following –
+ Number of pregnancies
+ Glucose level
+ Blood pressure
+ Skin thickness
+ Insulin level
+ Body Mass Index (BMI)
+ Diabetes Pedigree Function
+ Age
+The target variable is outcome that consists of 0 and 1. 0 indicates that the patient is not diabetic
+while 1 indicates that the patient is diabetic. In this dataset, all the patients are females that are at
+least 21 years old of Pima Indian Heritage.
